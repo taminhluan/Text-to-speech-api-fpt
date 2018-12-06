@@ -1,0 +1,1 @@
+(for %%i in (*.mp3) do @echo file '%%i') > list.txt
