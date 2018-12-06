@@ -1,0 +1,1 @@
+ffmpeg -f concat -safe 0 -i list.txt -c copy full.mp3
